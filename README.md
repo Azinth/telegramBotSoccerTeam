@@ -98,6 +98,17 @@ rubyPor favor, note que você precisa substituir `'token'` nas variáveis `TOKEN
 
 Contribuições são bem-vindas! Se você tiver alguma ideia ou sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+Ex de funcionamento:
+
+![Screenshot_20230820-182747_Telegram](https://github.com/Azinth/telegramBotSoccerTeam/assets/75175601/7dc0a04a-60d3-4b35-b54b-1e65332a0a86)
+
+
+![Screenshot_20230820-182638_Telegram](https://github.com/Azinth/telegramBotSoccerTeam/assets/75175601/33d728b9-85a3-48ba-b06b-f4b4f5460135)
+
+
+![Screenshot_20230826-153657_Telegram](https://github.com/Azinth/telegramBotSoccerTeam/assets/75175601/4832a445-6a21-496b-b149-3b121549dcf9)
+
+
 
 
 
