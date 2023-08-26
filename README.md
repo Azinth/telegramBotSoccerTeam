@@ -1,5 +1,7 @@
 # telegramBotSoccerTeam
 
+### Created by @Azinth
+
 # Telegram Bot for Soccer Matches
 
 This repository contains the code for a Telegram bot designed to manage soccer matches. The bot is capable of handling user registration, maintaining a list of players, and managing the game schedule.
